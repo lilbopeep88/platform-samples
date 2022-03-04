@@ -42,7 +42,7 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     public_suffix (4.0.6)
     rack (1.6.13)
-    rack-protection (1.5.3)
+    rack-protection (1.5.5)
       rack
     ruby2_keywords (0.0.5)
     sawyer (0.8.2)
